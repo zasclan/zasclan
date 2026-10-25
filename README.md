@@ -8,13 +8,13 @@ I enjoy turning practical problems into working software and documenting the dec
 
 ### [AutoScan AI](https://github.com/zasclan/AutoScanAI)
 
-A React Native and TypeScript mobile application for preliminary vehicle-damage assessment. It sends vehicle images to the Groq Vision API, validates structured results, stores inspection history locally, and generates shareable PDF reports.
+A research-oriented React Native prototype for evidence-aware vehicle-damage triage. It validates structured model output, derives reproducible scores, records confidence and uncertainty, and rejects unsupported reports.
 
 **Stack:** React Native, Expo, TypeScript, Groq Vision API, AsyncStorage
 
-### [TaskFlow](https://github.com/zasclan/task_app)
+### [FlowForge](https://github.com/zasclan/flowforge)
 
-A Flutter task-management application with Firebase authentication, Firestore synchronization, Provider state management, and basic API integration.
+A Flutter task execution workspace with typed workflows, priorities, due dates, search, dashboard metrics, real-time Firestore synchronization, and enforced per-user access rules.
 
 **Stack:** Flutter, Dart, Firebase Authentication, Cloud Firestore, Provider
 
